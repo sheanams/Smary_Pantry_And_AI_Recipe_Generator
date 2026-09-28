@@ -1,3 +1,4 @@
+/*hello*/
 package com.smartpantry.landing;
 
 import com.smartpantry.landing.dialogs.AuthDialog;
@@ -6,11 +7,10 @@ import com.smartpantry.landing.dialogs.DemoDialog;
 import com.smartpantry.landing.panels.*;
 import com.smartpantry.landing.utils.ColorPalette;
 import com.smartpantry.landing.utils.UIHelper;
-
-import javax.swing.*;
 import java.awt.*;
 import java.util.HashMap;
 import java.util.Map;
+import javax.swing.*;
 
 /**
  * ╔══════════════════════════════════════════════════════════════════════╗
